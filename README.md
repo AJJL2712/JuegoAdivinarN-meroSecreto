@@ -1,11 +1,17 @@
-# 🎮 Juego: Adivina el Número Secreto
+🎮 Juego: Adivina el Número Secreto
 
-Un pequeño proyecto en Python donde un jugador elige un número y otro intenta adivinarlo en 5 intentos.
+Un pequeño proyecto en Python donde un jugador elige un número secreto y otro intenta adivinarlo en un máximo de 5 intentos.
 
-## 🔧 Tecnologías usadas
-- Python 3
+🚀 Características
 
-## ▶️ ¿Cómo ejecutarlo?
-1. Clona el repositorio.
-2. Ejecuta:
+Entrada y validación de datos
 
+Control de intentos
+
+Mensajes dinámicos según el resultado
+
+Lógica básica de programación
+
+🔧 Tecnologías usadas
+
+Python 3
